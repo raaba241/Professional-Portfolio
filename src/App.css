@@ -1,7 +1,7 @@
-
-
-body{
-  margin: 0px 0px;
+body {
+  margin: 0px;
   height: 100vh;
-  /* background-image: linear-gradient(to left top, #f0f3f2, #d2e4e7, #cfe6f1, #d5e3f8, #dbd7f7); */
+  background-image: linear-gradient(to right top, #ffffff, #e4eaeb, #e1f0f7, #e4ebf7, #eff0fa);
+  background-attachment: fixed; 
+  background-size: cover; 
 }

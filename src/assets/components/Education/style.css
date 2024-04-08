@@ -1,9 +1,11 @@
 body {
     font-family: sugar;
+    font-size: 1.6rem;
 }
 
-h1 {
+.info-container h1 {
     color: rgb(255, 49, 49);
+    
 }
 
 .info-container {

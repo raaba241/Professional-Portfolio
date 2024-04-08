@@ -1,0 +1,41 @@
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; 
+    margin-left: 2rem;
+}
+
+.single-project-container {
+    flex: 0 0 50%; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin-top: 2rem;
+}
+
+.image-container {
+    flex: 1;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    max-width: 50%; 
+}
+
+.single-project-container img {
+    width: auto; 
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 30px;
+}
+
+.single-project-container .content {
+    flex: 1; 
+    margin-right:2rem;
+    margin-left:1rem;
+}
+
+.backend-container h1 {
+    display: flex;
+    justify-content: center;
+    margin:0px;
+}

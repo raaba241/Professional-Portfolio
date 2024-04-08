@@ -2,7 +2,9 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start; 
-    margin-left: 2rem;
+    margin-left: 4rem;
+    margin-right:2rem;
+    
 }
 
 .single-project-container {
@@ -37,5 +39,11 @@
 .backend-container h1 {
     display: flex;
     justify-content: center;
-    margin:0px;
+    margin-top: 50px;
+   
+    
+}
+
+.backend-container {
+    margin-bottom: 20px;
 }

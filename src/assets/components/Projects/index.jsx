@@ -6,7 +6,7 @@ const Project = () => {
     return (
         <>
             <div className="backend-container">
-                <h1>BACK-END Projects</h1>
+                <h1>FRONT-END Projects</h1>
 
                 <div className="project-container">
                     <div className="single-project-container">
@@ -49,7 +49,7 @@ const Project = () => {
             </div>
 
             <div className="backend-container">
-                <h1>FRONT-END Projects</h1>
+                <h1>BACK-END Projects</h1>
 
                 <div className="project-container">
                     <div className="single-project-container">

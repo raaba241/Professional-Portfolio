@@ -5,9 +5,13 @@ body {
 
 .info-container h1 {
     color: rgb(255, 49, 49);
+
     
 }
 
 .info-container {
-    margin: 3rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
+    margin-top: 3rem;
+   
 }

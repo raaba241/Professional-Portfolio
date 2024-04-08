@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   height: 100vh;
-  background-image: linear-gradient(to right top, #ffffff, #e4eaeb, #e1f0f7, #e4ebf7, #eff0fa);
+  background-image: linear-gradient(to right top, #ffffff, #d5e1e4, #d7ebf5, #dde6f5, #cdd1fd);
   background-attachment: fixed; 
   background-size: cover; 
 }

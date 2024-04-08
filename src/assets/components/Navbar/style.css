@@ -1,0 +1,36 @@
+.navbar {
+    display:flex;
+    justify-content: space-between;
+}
+@font-face {
+    font-family: titleFont;
+    src: url(../../fonts/Cookiemonster-gv11.ttf)
+  }
+
+@font-face {
+    font-family: sugar;
+    src: url(../../fonts/SugarHandy-BLWlw.ttf)
+}
+  
+.raabaBtn {
+    font-family: titleFont;
+    text-decoration: none;
+    font-size: 4rem;
+    color: rgba(0, 0, 0, 0.671);
+    margin-left: 2rem;
+}
+
+.navBtn{
+    font-family: sugar;
+    text-decoration: none;
+    margin-right: 1rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    
+}
+
+.link-wrapper {
+    margin-top: 2rem;
+    margin-right: 1rem;
+}

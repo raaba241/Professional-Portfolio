@@ -1,0 +1,11 @@
+body {
+    font-family: sugar;
+}
+
+h1 {
+    color: rgb(255, 49, 49);
+}
+
+.info-container {
+    margin: 3rem;
+}

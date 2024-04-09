@@ -14,7 +14,7 @@ const Banner = () => {
 
                     <a href="https://github.com/raaba241"><img src={githubIcon} alt="github logo" /></a>
                     <a href="https://www.linkedin.com/in/ahmad-raaba-07937129a/"><img src={linkedInIcon} alt="linkedIn logo" /></a>
-                    <a href="https://github.com/raaba241"><img src={gmailIcon} alt="github logo" /></a>
+                    <a href="mailto:raaba21@gmail.com"><img src={gmailIcon} alt="github logo" /></a>
                 </div>
 
                 <div className='profilePic'>

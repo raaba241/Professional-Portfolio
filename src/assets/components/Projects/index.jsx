@@ -17,7 +17,7 @@ const Project = () => {
 
                     <div className="project-container">
                         <div className="single-project-container">
-                            <Link to="/projects/1" className="image-container"><img src={placeholder} alt="" /></Link>
+                            <Link to="/projects/1" className="image-container"><img src={employeeManagerImg} alt="" /></Link>
                             <div className="content">
                                 <h2>This is a tomato</h2>
                                 <h3>Technologies Used: </h3>
@@ -25,7 +25,7 @@ const Project = () => {
                             </div>
                         </div>
                         <div className="single-project-container">
-                            <Link to="/projects/1" className="image-container"><img src={placeholder} alt="" /></Link>
+                            <Link to="/projects/1" className="image-container"><img src={employeeManagerImg} alt="" /></Link>
                             <div className="content">
                                 <h2>This is a tomato</h2>
                                 <h3>Technologies Used: </h3>
@@ -53,7 +53,7 @@ const Project = () => {
                             </div>
                         </div>
                         <div className="single-project-container">
-                            <Link to="/projects/1" className="image-container"><img src={placeholder} alt="" /></Link>
+                            <Link to="/projects/1" className="image-container"><img src={employeeManagerImg} alt="" /></Link>
                             <div className="content">
                                 <h2>Ecommerce Database</h2>
                                 <h3>Technologies Used: SQL, JS, Node.js, MVC Paradigm</h3>
@@ -71,7 +71,7 @@ const Project = () => {
 
                     <div className="project-container">
                         <div className="single-project-container">
-                            <Link to="/projects/1" className="image-container"><img src={placeholder} alt="" /></Link>
+                            <Link to="/projects/1" className="image-container"><img src={employeeManagerImg} alt="" /></Link>
                             <div className="content">
                                 <h2>This is a tomato</h2>
                                 <h3>Technologies Used: </h3>
@@ -79,7 +79,7 @@ const Project = () => {
                             </div>
                         </div>
                         <div className="single-project-container">
-                            <Link to="/projects/1" className="image-container"><img src={placeholder} alt="" /></Link>
+                            <Link to="/projects/1" className="image-container"><img src={employeeManagerImg} alt="" /></Link>
                             <div className="content">
                                 <h2>This is a tomato</h2>
                                 <h3>Technologies Used: </h3>
